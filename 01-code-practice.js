@@ -1,8 +1,13 @@
+// This is a single line of code.
+
+/*
+Multi-Line Comment
 console.log('Hello World!');
 
 console.log(100);
 
 console.log(10, 'Hello', true);
+*/
 
 const x = 100;
 
