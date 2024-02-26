@@ -2,3 +2,4 @@
 // 2-26-24
 // Using The Console.
 // Comments & Shortcuts.
+// Variables & constants
