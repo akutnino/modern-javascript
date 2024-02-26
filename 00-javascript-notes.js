@@ -3,3 +3,4 @@
 // Using The Console.
 // Comments & Shortcuts.
 // Variables & constants
+// Data Types
